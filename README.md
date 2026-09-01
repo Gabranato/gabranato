@@ -1,7 +1,7 @@
 # 👋 Fala aí, eu sou o Gabriel (Pimenta)
 
 ### 💻 Desenvolvedor .NET
-### 🎮 Gamer nas horas vagas (Warframe e afins)
+### 🎮 Gamer nas horas vagas
 ### 🧠 Curto resolver problemas complexos e melhorar sistemas existentes
 ### 📍 Brasil
 
